@@ -5,7 +5,7 @@ Guava | Karrer, Bischof, Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 11.05 | 0.0.1   | Wir haben das Repository erstellt, bearbeitet und die Website erstellt.|
+| 11.05 | 0.0.1   | Wir haben das Repository erstellt, bearbeitet und die Website erstellt. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,20 +13,20 @@ Guava | Karrer, Bischof, Stäuble
 
 ### 1.1 Ihr Projekt
 
-Wir haben eine Website für ein restaurant erstellt, wo das Menü angezeigt wird.
+Wir haben eine Website für ein Restaurant erstellt, wo das Menü angezeigt wird.
 
-Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" bassiert. Dieses Restaurant ist ein fiktives Restaurant aus der Serie "Breaking Bad" und Better Call Saul." Die Website kann verschiedene Menügerichte anzeigen und eventuell auch Mitarbeiter.
+Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" basiert. Dieses Restaurant ist ein fiktives Restaurant aus der Serie "Breaking Bad" und "Better Call Saul." Die Website kann verschiedene Menügerichte anzeigen und eventuell auch Mitarbeiter.
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| US-№ | Verbindlichkeit | Typ | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|1| Muss |Funktional| Als ein Nutzer möchte ich dass die Website funktioniert wie gedacht, damit ich sie konkret benutzen kann.|
-|2|Muss|Funktional| Als ein Nutzer möchte ich dass das Restaurantmenu sichtbar ist, damit ich wissen kann was es zu bestellen gibt.|
-|3|kann|Funktion| Als ein Nutzer möchte ich dass es von den verschiedenen Themen springen kann, damit es einfacher ist zu navigieren.|
-|4|Muss|Qualität| Als ein Nutzer möchte ich dass die Website gut aussieht, damit es angenehm auf den augen ist.|
-|5|rand|Qualität| Als ein Nutzer möchte ich Information über etwas kriegen wenn ich die Maus draufhalte, damit ich additionelle Information haben kann.|
-|6|kann|Qualität| Als ein Nutzer möchte ich dass die Website animiert ist, damit die Website professioneller wirkt.|
+|1| Muss |Funktional| Als ein Nutzer möchte ich, dass die Website funktioniert wie gedacht, damit ich sie konkret benutzen kann. |
+|2|Muss|Funktional| Als ein Nutzer möchte ich, dass das Restaurantmenu sichtbar ist, damit ich wissen kann was es zu bestellen gibt. |
+|3|kann|Funktion| Als ein Nutzer möchte ich, dass es von den verschiedenen Themen springen kann, damit es einfacher ist zu navigieren. |
+|4|Muss|Qualität| Als ein Nutzer möchte ich, dass die Website gut aussieht, damit es angenehm auf den Augen ist. |
+|5|rand|Qualität| Als ein Nutzer möchte ich Information über etwas kriegen wenn ich die Maus draufhalte, damit ich zusätzliche Information haben kann.|
+|6|kann|Qualität| Als ein Nutzer möchte ich, dass die Website animiert ist, damit die Website professioneller wirkt. |
 
 
 
@@ -36,13 +36,13 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | - | Klicke auf Link | Website öffnet sich |
-| 2.1  | Auf Homepage | Klicke auf Gerichte | Gerichte werden mir angezeigt |
-| 3.1  | Auf Homepage | Klicke auf Scrolldown | Scrollt down zur richtigen Stelle |
-| 3.2  | Auf Homepage | Klicke auf einen Knopf | Bringt mich weiter zur richtigen Unterseite |
-| 4.1  | Auf Homepage | Klicke auf eine Farbe | Farbe wird ausgewählt |
-| 5.1  | Bei den Gerichten | Swipe über ein Gericht | Mehr Info werden angezeigt |
-| 6.1  | Website offen | - | Animationen laufen automatisch |
+| 1.1 | - | Klicke auf Link | Website öffnet sich |
+| 2.1 | Auf Homepage | Klicke auf Gerichte | Gerichte werden mir angezeigt |
+| 3.1 | Auf Homepage | Klicke auf Scroll down | scrollt down zur richtigen Stelle |
+| 3.2 | Auf Homepage | Klicke auf einen Knopf | bringt mich weiter zur richtigen Unterseite |
+| 4.1 | Auf Homepage | Klicke auf eine Farbe | Farbe wird ausgewählt |
+| 5.1 | Bei den Gerichten | Swipe über ein Gericht | Mehr Info werden angezeigt |
+| 6.1 | Website offen | - | Animationen laufen automatisch |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -56,21 +56,21 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 18.05 | Gabriel | Homepagebilder wechsel | 90min |
+| 1.A  | 18.05 | Gabriel | Homepagebilder Wechsel | 90min |
 | 1.B  | 18.05 | Nicola | Header | 90min |
 | 2.A  | 18.05 | Kilian | Infos + Textart | 45min |
 | 2.B  | 18.05 | Gabriel | Bilder + Logo | 45min |
 | 3.A  | 25.05 | Nicola | Scroll-down Funktion | 90min |
-| 3.B  | 25.05 | Kilian | Standortmap | 90min |
-| 3.C  | 25.05 | Gabriel | Gerichte wechsel | 135min |
-| 4.A  | 01.06| Nicola | Farben wechsel Funktion | 90min |
+| 3.B  | 25.05 | Kilian | Standortkarte | 90min |
+| 3.C  | 25.05 | Gabriel | Gerichte Wechsel | 135min |
+| 4.A  | 01.06| Nicola | Farben Wechsel Funktion | 90min |
 | 5.A  | 01.06 | Kilian | Extra Infos Funktion | 90min |
 | 6.A  | 01.06 | Gabriel | Animationen | 90min |
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie in Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
