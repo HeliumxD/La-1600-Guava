@@ -56,16 +56,16 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Gabriel | Homepagebilder wechsel | 90min |
-| 1.B  |       | Nicola | Header | 90min |
-| 2.A  |       | Kilian | Infos + Textart | 45min |
-| 2.B  |       | Gabriel | Bilder + Logo | 45min |
-| 3.A  |       | Nicola | Scroll-down Funktion | 90min |
-| 3.B  |       | Kilian | Standortmap | 90min |
-| 3.C  |       | Gabriel | Gerichte wechsel | 135min |
-| 4.A  |       | Nicola | Farben wechsel Funktion | 90min |
-| 5.A  |       | Kilian | Extra Infos Funktion | 90min |
-| 6.A  |       | Gabriel | Animationen | 90min |
+| 1.A  | 18.05 | Gabriel | Homepagebilder wechsel | 90min |
+| 1.B  | 18.05 | Nicola | Header | 90min |
+| 2.A  | 18.05 | Kilian | Infos + Textart | 45min |
+| 2.B  | 18.05 | Gabriel | Bilder + Logo | 45min |
+| 3.A  | 25.05 | Nicola | Scroll-down Funktion | 90min |
+| 3.B  | 25.05 | Kilian | Standortmap | 90min |
+| 3.C  | 25.05 | Gabriel | Gerichte wechsel | 135min |
+| 4.A  | 01.06| Nicola | Farben wechsel Funktion | 90min |
+| 5.A  | 01.06 | Kilian | Extra Infos Funktion | 90min |
+| 6.A  | 01.06 | Gabriel | Animationen | 90min |
 
 
 ## 3 Entscheiden
