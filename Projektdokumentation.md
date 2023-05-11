@@ -42,8 +42,9 @@ Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" ba
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![Use case diagram(2)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/a3e36b47-bbb3-4156-8e71-7ea6f75e4167)
 
-![Use case diagram(1)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/a7c2c299-13b5-4917-a01e-43e02543f1f2)
+
 
 
 ## 2 Planen
