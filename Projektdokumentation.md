@@ -51,18 +51,16 @@ Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" ba
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-
-1 Homepage-bilder wechsel
-2 Header
-10 Infos + Textart
-4 Alle Bilder + Logo
-5 Scroll down funktion
-6 Standort map
-7 Gerichte wechsel
-8 Animationen
-9 extra Infos funktion (pop up)
-10 farb palette
+| 1.A  |       |           | Homepagebilder wechsel | 90min |
+| 1.B  |       |           | Header | 90min |
+| 2.A  |       |           | Infos + Textart | 45min |
+| 2.B  |       |           | Bilder + Logo | 45min |
+| 3.A  |       |           | Scroll-down Funktion | 90min |
+| 3.B  |       |           | Standortmap | 90min |
+| 3.C  |       |           | Gerichte wechsel | 135min |
+| 4.A  |       |           | Farben wechsel Funktion | 90min |
+| 5.A  |       |           | Extra Infos Funktion | 90min |
+| 6.A  |       |           | Animationen | 90min |
 
 
 Total: 
