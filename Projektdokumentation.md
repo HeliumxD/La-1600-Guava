@@ -30,8 +30,6 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 
 
-
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -44,7 +42,6 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 | 5.1 | Bei den Gerichten | Swipe über ein Gericht | Mehr Info werden angezeigt |
 | 6.1 | Website offen | - | Animationen laufen automatisch |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 ![Use case diagram(2)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/a3e36b47-bbb3-4156-8e71-7ea6f75e4167)
@@ -72,7 +69,7 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie in Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-verknüpfungen zu Unterseiten. Zu dem haben wir unsere Arbeitspakete nach Zufall ausgewählt, da es uns allen nicht gerade wichtig war, was wir machen müssen, und wir je nach dem noch änderungen vornehmen müssen.
 
 ## 4 Realisieren
 
