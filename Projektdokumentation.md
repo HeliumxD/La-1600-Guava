@@ -49,7 +49,9 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 ### 1.4 Diagramme
 ![Use case diagram(2)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/a3e36b47-bbb3-4156-8e71-7ea6f75e4167)
 
+![MicrosoftTeams-image (18)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/448942b5-87b4-4290-acbe-d305eb267c71)
 
+![MicrosoftTeams-image (19)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/293497eb-5e12-45df-99b3-2053c57dbdf0)
 
 
 ## 2 Planen
