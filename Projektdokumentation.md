@@ -15,7 +15,7 @@ Guava | Karrer, Bischof, Stäuble
 
 Wir haben eine Website für ein restaurant erstellt, wo das Menü angezeigt wird.
 
-Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" bassiert. dieses restaurant ist ein fiktives restaurant aus der Serie "Breaking Bad" und Better Call Saul." Die website kann verschiedene Menügerichte anzeigen und eventuel auch Mitarbeiter.
+Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" bassiert. Dieses Restaurant ist ein fiktives Restaurant aus der Serie "Breaking Bad" und Better Call Saul." Die Website kann verschiedene Menügerichte anzeigen und eventuell auch Mitarbeiter.
 
 ### 1.2 User Stories
 
@@ -36,8 +36,13 @@ Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" ba
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | - | Klicke auf Link | Website öffnet sich |
+| 2.1  | Auf Homepage | Klicke auf Gerichte | Gerichte werden mir angezeigt |
+| 3.1  | Auf Homepage | Klicke auf Scrolldown | Scrollt down zur richtigen Stelle |
+| 3.2  | Auf Homepage | Klicke auf einen Knopf | Bringt mich weiter zur richtigen Unterseite |
+| 4.1  | Auf Homepage | Klicke auf eine Farbe | Farbe wird ausgewählt |
+| 5.1  | Bei den Gerichten | Swipe über ein Gericht | Mehr Info werden angezeigt |
+| 6.1  | Website offen | - | Animationen laufen automatisch |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -62,12 +67,6 @@ Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" ba
 | 5.A  |       |           | Extra Infos Funktion | 90min |
 | 6.A  |       |           | Animationen | 90min |
 
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
