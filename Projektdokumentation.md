@@ -43,7 +43,8 @@ Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" ba
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Use case diagram(1)](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/a7c2c299-13b5-4917-a01e-43e02543f1f2)
+
 
 ## 2 Planen
 
