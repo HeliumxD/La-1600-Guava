@@ -1,12 +1,11 @@
-# Projekt-Dokumentation
+# La-1600-Guava
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Guava | Karrer, Bischof, Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 11.05 | 0.0.1   | Wir haben das Repository erstellt, bearbeitet und die Website erstellt.|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,18 +13,24 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir haben eine Website für ein restaurant erstellt, wo das Menü angezeigt wird.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir haben eine Website erstellt dass auf das restaurant "Los Pollos Hermanos" bassiert. dieses restaurant ist ein fiktives restaurant aus der Serie "Breaking Bad" und Better Call Saul." Die website kann verschiedene Menügerichte anzeigen und eventuel auch Mitarbeiter.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+|1| Muss |Funktional| Als ein Nutzer möchte ich dass die Website funktioniert wie gedacht, damit ich sie konkret benutzen kann.|
+|2|Muss|Funktional| Als ein Nutzer möchte ich dass das Restaurantmenu sichtbar ist, damit ich wissen kann was es zu bestellen gibt.|
+|3|kann|Funktion| Als ein Nutzer möchte ich dass es von den verschiedenen Themen springen kann, damit es einfacher ist zu navigieren.|
+|4|Muss|Qualität| Als ein Nutzer möchte ich dass die Website gut aussieht, damit es angenehm auf den augen ist.|
+|5|rand|Qualität| Als ein Nutzer möchte ich Information über etwas kriegen wenn ich die Maus draufhalte, damit ich additionelle Information haben kann.|
+|6|kann|Qualität| Als ein Nutzer möchte ich dass die Website animiert ist, damit die Website professioneller wirkt.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
+
+
 
 ### 1.3 Testfälle
 
