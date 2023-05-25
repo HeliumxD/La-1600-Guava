@@ -78,6 +78,10 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 1.A  | 11.05 | Gabriel | 90min | -min |
 | 1.B  | 11.05 | Nicola | 90min | -min |
 | 2.A  | 11.05 | Kilian | 45min | -min |
+| 1.A  | 25.05 | Gabriel | 90min | -min |
+| 1.B  | 25.05 | Nicola | 90min | -min |
+| 2.A  | 25.05 | Kilian | 45min | -min |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
