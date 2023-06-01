@@ -58,7 +58,7 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 | 1.A  | 18.05 | Gabriel | Homepagebilder Wechsel | 90min |
 | 1.B  | 18.05 | Nicola | Header | 90min |
 | 2.A  | 18.05 | Kilian | Infos + Textart | 45min |
-| 2.B  | 18.05 | Gabriel | Bilder + Logo | 45min |
+| 2.B  | 18.05 | Gabriel | Bilder + Logo suchen und einfügen| 45min |
 | 3.A  | 25.05 | Nicola | Scroll-down Funktion | 90min |
 | 3.B  | 25.05 | Kilian | Standortkarte | 90min |
 | 3.C  | 25.05 | Gabriel | Gerichte Wechsel | 135min |
@@ -78,9 +78,11 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 1.A  | 11.05 | Gabriel | 90min | -min |
 | 1.B  | 11.05 | Nicola | 90min | -min |
 | 2.A  | 11.05 | Kilian | 45min | -min |
-| 1.A  | 25.05 | Gabriel | 90min | -min |
-| 1.B  | 25.05 | Nicola | 90min | -min |
-| 2.A  | 25.05 | Kilian | 45min | -min |
+| 1.B  | 25.05 | Nicola | 90min | 180min |
+| 2.B  | 25.05 | Gabriel | 45min | 180min |
+| 6.A  | 25.05 | Kilian | 90min | 180min |
+| 3.A  | 01.06 | Nicola | 90min | -min |
+
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
