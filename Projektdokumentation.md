@@ -82,13 +82,11 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 2.B  | 25.05 | Gabriel | 45min | 180min |
 | 6.A  | 25.05 | Kilian | 90min | 180min |
 | 3.B  | 01.06 | Nicola | 90min | -min |
-| 3.A  | 01.06 | Nicola | 90min | -min |
-| 3.A  | 01.06 | Kilian | 90min | -min |
+| 3.A  | 01.06 | Nicola | 90min | 135min |
+| 3.A  | 01.06 | Kilian | 90min | 135min |
+| 2.A  | 01.06 | Kilian | 45minm | -min |
 | 3.C  | 01.06 | Gabriel | 135min | -min |
 
-
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -97,7 +95,6 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ## 6 Auswerten
 
