@@ -84,7 +84,7 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 3.B  | 01.06 | Nicola | 90min | -min |
 | 3.A  | 01.06 | Nicola | 90min | 135min |
 | 3.A  | 01.06 | Kilian | 90min | 135min |
-| 2.A  | 01.06 | Kilian | 45minm | -min |
+| 2.A  | 01.06 | Kilian | 45min | -min |
 | 3.C  | 01.06 | Gabriel | 135min | -min |
 
 
