@@ -6,8 +6,8 @@ Guava | Karrer, Bischof, Stäuble
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 11.05 | 0.0.1   | Wir haben das Repository erstellt, bearbeitet und die Website erstellt. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 25.05 | 0.0.2   | Wir haben die erste Version unserer Website erstellt mit Header, Bilder und Text. |
+| 01.06 | 0.0.3   | Wir haben die Scrolldown-funktion geschrieben, den "About us" Teil erstellt und den "Gerichte" Teil angefangen. |
 
 ## 1 Informieren
 
