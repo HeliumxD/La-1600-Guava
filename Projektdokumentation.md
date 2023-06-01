@@ -25,7 +25,7 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 |2|Muss|Funktional| Als ein Nutzer möchte ich, dass das Restaurantmenu sichtbar ist, damit ich wissen kann was es zu bestellen gibt. |
 |3|kann|Funktion| Als ein Nutzer möchte ich, dass es von den verschiedenen Themen springen kann, damit es einfacher ist zu navigieren. |
 |4|Muss|Qualität| Als ein Nutzer möchte ich, dass die Website gut aussieht, damit es angenehm auf den Augen ist. |
-|5|rand|Qualität| Als ein Nutzer möchte ich Information über etwas kriegen wenn ich die Maus draufhalte, damit ich zusätzliche Information haben kann.|
+|5|kann|Qualität| Als ein Nutzer möchte ich Information über etwas kriegen wenn ich die Maus draufhalte, damit ich zusätzliche Information haben kann.|
 |6|kann|Qualität| Als ein Nutzer möchte ich, dass die Website animiert ist, damit die Website professioneller wirkt. |
 
 
