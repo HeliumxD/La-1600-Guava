@@ -81,6 +81,7 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 1.B  | 25.05 | Nicola | 90min | 180min |
 | 2.B  | 25.05 | Gabriel | 45min | 180min |
 | 6.A  | 25.05 | Kilian | 90min | 180min |
+| 3.B  | 01.06 | Nicola | 90min | -min |
 | 3.A  | 01.06 | Nicola | 90min | -min |
 | 3.A  | 01.06 | Kilian | 90min | -min |
 | 3.C  | 01.06 | Gabriel | 135min | -min |
