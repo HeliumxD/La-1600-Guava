@@ -76,3 +76,52 @@
 
 }
 
+#Gerichte{
+
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    margin: 50px 0px;
+
+
+}
+
+.angebote-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 60px auto;
+    width: 1200px;
+    padding: 20px 0px;
+    background-color: #0606060e;
+    border: 1px solid rgba(0,0,0, 0.04)
+}
+
+
+
+.angebote-box{
+    width: auto;
+    height: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+
+.angebote-img img {
+
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.angebote-text {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
