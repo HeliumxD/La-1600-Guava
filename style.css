@@ -139,7 +139,8 @@
 .standort-text{
 
     margin-top: 10px;
-    padding-left: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
     font-size: 17.5px ;
     justify-content: center;
     display: flex;
@@ -156,4 +157,6 @@
     display:flex;
     justify-content: center;
 }
+
+
 
