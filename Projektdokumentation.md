@@ -8,6 +8,7 @@ Guava | Karrer, Bischof, Stäuble
 | 11.05 | 0.0.1   | Wir haben das Repository erstellt, bearbeitet und die Website erstellt. |
 | 25.05 | 0.0.2   | Wir haben die erste Version unserer Website erstellt mit Header, Bilder und Text. |
 | 01.06 | 0.0.3   | Wir haben die Scrolldown-funktion geschrieben, den "About us" Teil erstellt und den "Gerichte" Teil angefangen. |
+| 15.06 | 0.0.4   | Wir haben alle Seiten fertig gemacht und die Präsentation gemacht. |
 
 ## 1 Informieren
 
@@ -55,6 +56,7 @@ Wir haben eine Website erstellt, dass auf das Restaurant "Los Pollos Hermanos" b
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 0.A  | 15.06 | Nicola | Präsentation | 135min |
 | 1.A  | 18.05 | Gabriel | Homepagebilder Wechsel | 90min |
 | 1.B  | 18.05 | Nicola | Header | 90min |
 | 2.A  | 18.05 | Kilian | Infos + Textart | 45min |
@@ -86,6 +88,11 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | 3.A  | 01.06 | Kilian | 90min | 135min |
 | 2.A  | 01.06 | Kilian | 45min | -min |
 | 3.C  | 01.06 | Gabriel | 135min | -min |
+| 3.B  | 15.06 | Nicola | 90min | 135min |
+| 0.A  | 15.06 | Nicola | 135min | 135min |
+| 3.C  | 15.06 | Gabriel | 135min | 180min |
+| 2.A  | 15.06 | Kilian | 45min | 90min |
+| 3.A  | 15.06 | Kilian | 90min | 135min |
 
 
 ## 5 Kontrollieren
