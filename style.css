@@ -142,3 +142,35 @@
     width:80%;
     height: 500px;
 }
+
+#Titel-Standort{
+
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    margin: 50px 0px;
+    font-size: larger;
+
+}
+
+.standort-text{
+
+    margin-top: 50px;
+    padding-left: 40px;
+    font-size: 17.5px ;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid white ; 
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+#Standort{
+
+    display:flex;
+    justify-content: center;
+}
