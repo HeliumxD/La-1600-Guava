@@ -101,7 +101,7 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 | ---- | ----- | -------- | ------ |
 | 1.1  | 21.06 | Funkioniert | Nicola |
 | 2.1  | 21.06 | Funkioniert | Nicola |
-| 3.1  | 21.06 | Funkioniert | Nicola |
+| 3.1  | 21.06 | Funkioniert nicht bei "about-us" | Nicola |
 | 3.2  | 21.06 | Nicht geschafft | Nicola |
 | 4.1  | 21.06 | Nicht geschafft | Nicola |
 | 5.1  | 21.06 | Nicht geschafft | Nicola |
