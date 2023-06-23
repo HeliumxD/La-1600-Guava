@@ -16,7 +16,7 @@ In diesem Projekt haben wir gelernt, wie man eine Navbar erstellt, die beim Übe
 
 ![LA_1600 website](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/e83180d7-d9dc-41c7-8d95-26bde51ee546)
 
-``CSS
+``css
 .navbar {
     width: 85%;
     margin: auto;               
