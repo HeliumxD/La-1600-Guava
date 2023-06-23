@@ -14,7 +14,9 @@ In diesem Projekt haben wir gelernt, wie man eine Navbar erstellt, die beim Übe
 
 Das GIF zeigt unsere implementierte Website mit der funktionierenden Navbar.
 
-![LA_1600 website](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/e83180d7-d9dc-41c7-8d95-26bde51ee546)
+![navbar](https://github.com/HeliumxD/La-1600-Guava/assets/111046337/50699476-3a5d-4581-96dc-59c1f9dec028)
+
+
 
 Hier ist der CSS-Code, den wir für die Gestaltung der Navbar verwendet haben.
 
