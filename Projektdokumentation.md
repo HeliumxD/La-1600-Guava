@@ -110,4 +110,4 @@ Wir haben uns für eine Singlepage Seite bei der Homepage entschieden mit Knopf-
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/HeliumxD/La-1600-Guava/blob/main/lernbericht.md
