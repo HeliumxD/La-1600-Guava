@@ -75,18 +75,18 @@ Hier ist der CSS-Code, den wir für die Gestaltung der Navbar verwendet haben.
 Der gegebene CSS-Code implementiert eine stilvolle Navbar für eine Website. Die Navbar wird horizontal zentriert, hat eine bestimmte Breite und einen definierten Innenabstand. Die Listenelemente in der Navbar werden nebeneinander angezeigt und haben einen Abstand voneinander. Zusätzlich gibt es einen visuellen Effekt, der aktiviert wird, wenn man mit der Maus über die Listenelemente fährt.
 
 Der visuelle Effekt wird durch den Einsatz von CSS-Pseudo-Elementen und Übergangseigenschaften erzeugt. Für jedes Listenelement in der Navbar wird ein zusätzliches Element erstellt, das den animierten Balken repräsentiert. Anfangs ist der Balken unsichtbar und hat eine Breite von 0.
-Wenn der Mauszeiger über ein Listenelement schwebt, wird die Breite des Balkens auf 100% erhöht. Dies geschieht allmählich und mit einer fließenden Animation, die dem Element eine markante Betonung verleiht.
+Wenn der Mauszeiger über ein Listenelement schwebt, wird die Breite des Balkens auf 100% erhöht. Dies geschieht allmählich und mit einer fliessenden Animation, die dem Element eine markante Betonung verleiht.
 Auf diese Weise entsteht der visuelle Effekt, dass der Balken beim Überfahren mit der Maus von links nach rechts wächst und dem Listenelement eine ansprechende Darstellung verleiht.
 
 ## Verifikation
 
-Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudo-Elemente, in diesem Fall "::after" und Übergangseigenschaften transitions verwendet wird.
-Ausserdem haben wir gelernt wie man durch die Verwendung von Flexbox, ein Elemente horizontal ausrichtet und gleichmäßig verteilt.
+Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudoelemente, in diesem Fall "::after" und Übergangseigenschaften Transitions verwendet wird.
+Ausserdem haben wir gelernt, wie man durch die Verwendung von Flexbox, ein Element horizontal ausrichtet und gleichmässig verteilt.
 
-# Reflektion zum Arbeitsprozess
+# Reflexion zum Arbeitsprozess
 
 Wir haben während des gesamten Projekts effizient gearbeitet. Wir kamen gut voran und konnten uns gut gegenseitig helfen.
 
-Es gab gelegentlich Probleme bei der Kommunikation und der Zuweisung von Aufgaben. Leider haben wir manche Code Abschnitte doppelt geschrieben und dafür andere gar nicht, wo wir später dann noch nach holen mussten.
+Es gab gelegentlich Probleme bei der Kommunikation und der Zuweisung von Aufgaben. Leider haben wir manche Code-Abschnitte doppelt geschrieben und dafür andere gar nicht, wo wir später dann noch nachholen mussten.
 
 **VBV**: Ein Verbesserungsvorschlag könnte darin bestehen, die Anzahl der Teammeetings zu erhöhen, um den Fortschritt und den aktuellen Stand der Dinge besser miteinander zu kommunizieren.
