@@ -80,7 +80,7 @@ Auf diese Weise entsteht der visuelle Effekt, dass der Balken beim Überfahren m
 
 ## Verifikation
 
-Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudoelemente, in diesem Fall "::after" und Übergangseigenschaften Transitions verwendet wird.
+Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudoelement, in diesem Fall "::after" und Übergangseigenschaften Transitions verwendet wird.
 Ausserdem haben wir gelernt, wie man durch die Verwendung von Flexbox, ein Element horizontal ausrichtet und gleichmässig verteilt.
 
 # Reflexion zum Arbeitsprozess
