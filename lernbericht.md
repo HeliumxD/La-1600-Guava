@@ -1,6 +1,6 @@
 # Lern-Bericht
 
-Von der Gruppe Guava 
+Gruppe Guava | Nicola, Gabriel, Kilian
 
 ## Einleitung
 
@@ -80,13 +80,13 @@ Auf diese Weise entsteht der visuelle Effekt, dass der Balken beim Überfahren m
 
 ## Verifikation
 
-Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudo-Elemente in diesem Fall ::after und Übergangseigenschaften transition verwendet wird.
+Wir haben gelernt, wie man den visuellen Effekt eines wachsenden Balkens erzeugt, wenn der Mauszeiger über ein Listenelement schwebt, indem ein Pseudo-Elemente, in diesem Fall "::after" und Übergangseigenschaften transitions verwendet wird.
 Ausserdem haben wir gelernt wie man durch die Verwendung von Flexbox, ein Elemente horizontal ausrichtet und gleichmäßig verteilt.
 
 # Reflektion zum Arbeitsprozess
 
-Wir haben während des gesamten Projekts effizient gearbeitet.
+Wir haben während des gesamten Projekts effizient gearbeitet. Wir kamen gut voran und konnten uns gut gegenseitig helfen.
 
-Es gab gelegentlich Probleme bei der Kommunikation und der Zuweisung von Aufgaben.
+Es gab gelegentlich Probleme bei der Kommunikation und der Zuweisung von Aufgaben. Leider haben wir manche Code Abschnitte doppelt geschrieben und dafür andere gar nicht, wo wir später dann noch nach holen mussten.
 
 **VBV**: Ein Verbesserungsvorschlag könnte darin bestehen, die Anzahl der Teammeetings zu erhöhen, um den Fortschritt und den aktuellen Stand der Dinge besser miteinander zu kommunizieren.
